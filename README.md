@@ -5,5 +5,3 @@
 - Atualmente, estou aprendendo sobre desenvolvimento web.
 - Faço parte do PET Computação.
 - Tenho 20 anos.
-
-- Entre em contato :[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roberta-felix-7b39a1214/)
